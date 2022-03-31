@@ -4,3 +4,17 @@ Collect crystals by animated character. <br>
 Beat your own highscore! <br>
 
 <img src="https://github.com/Alexart1995/ZigZagGame/blob/main/Game.gif" width="400" height="250">
+
+## Usage and control
+- Press `S` to start moving
+- Press `Space` to change direction
+
+## Description of the creation of the game and its elements
+### Character
+- Character was taken from Unity Asset Store with animations
+- Animations were edited with Animator
+- Triggers were added for changing animations-
+- Moves of player is automatic and increases by increasing score
+### Crystals and Road
+- Character was taken from Unity Asset Store with animations
+
