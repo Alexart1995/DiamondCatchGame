@@ -15,6 +15,14 @@ Beat your own highscore! <br>
 - Animations were edited with Animator
 - Triggers were added for changing animations-
 - Moves of player is automatic and increases by increasing score
+- Falling of character is checked by Raycaster which is looking down on axis y
 ### Crystals and Road
-- Character was taken from Unity Asset Store with animations
-
+- Crystals were taken from Unity Asset Store
+- Crystals are destroying by on Function `OnTrigger`
+- Road and Crystals are automaticly created by `RoadCreation.cs` from first end of our road
+### Game Manager
+- Changes Score 
+- Saves Highscore that you can beat it later
+- Loads scene after you lose
+### Music
+- Music is added from Unity Asset Store
