@@ -2,5 +2,4 @@
 Small 3D game from Udemy course.
 Collect crystals by animated character.
 Beat your own highscore!
-![alt text](https://github.com/Alexart1995/ZigZagGame/blob/main/Game.gif width="250" height="250")
-![alt text]<img src="https://github.com/Alexart1995/ZigZagGame/blob/main/Game.gif" width="400" height="790">
+![alt text]<img src="https://github.com/Alexart1995/ZigZagGame/blob/main/Game.gif" width="500" height="500">
