@@ -1,4 +1,4 @@
-# ZigZagGame
+# SnakeGame
 Small 3D game. <br>
 Collect crystals by animated character. <br>
 Beat your own highscore! <br>
